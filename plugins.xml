@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <plugins>
-  <plugin name="Zajeciopas"
-          version="1.0.0"
-          qgis_minimum_version="3.40"
-          author="Krzysztof Bąkowski"
-          description="Przycinanie kabli do działek"
-          homepage="https://github.com/KrzBak/Zajeciopas">
+  <pyqgis_plugin name="Zajeciopas" version="1.0.0">
+    <description>Przycinanie kabli do działek</description>
+    <version>1.0.0</version>
+    <qgis_minimum_version>3.40</qgis_minimum_version>
+    <author_name>Krzysztof Bąkowski</author_name>
     <download_url>
       https://github.com/KrzBak/Zajeciopas/releases/download/v1.0.0/Zajeciopas.zip
     </download_url>
-  </plugin>
+    <homepage>
+      https://github.com/KrzBak/Zajeciopas
+    </homepage>
+    <filename>Zajeciopas.zip</filename>
+  </pyqgis_plugin>
 </plugins>
