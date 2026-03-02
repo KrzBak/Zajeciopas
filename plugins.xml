@@ -4,6 +4,7 @@
     <description>Przycinanie kabli do działek</description>
     <version>1.0.1</version>
     <qgis_minimum_version>3.22</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
     <author_name>Krzysztof Bąkowski</author_name>
     <download_url>
       https://github.com/KrzBak/Zajeciopas/releases/download/v1.0.1/Zajeciopas.zip
