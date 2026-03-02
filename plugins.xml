@@ -3,7 +3,7 @@
   <plugin name="Zajeciopas"
           version="1.0.0"
           qgis_minimum_version="3.40"
-          author="Twoje Imie"
+          author="Krzysztof Bąkowski"
           description="Przycinanie kabli do działek"
           homepage="https://github.com/KrzBak/Zajeciopas">
     <download_url>
