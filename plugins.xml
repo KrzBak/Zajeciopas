@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <plugins>
-  <pyqgis_plugin name="Zajeciopas" version="1.0.0">
+  <pyqgis_plugin name="Zajeciopas" version="1.0.1">
     <description>Przycinanie kabli do działek</description>
     <version>1.0.1</version>
     <qgis_minimum_version>3.40</qgis_minimum_version>
